@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="testSuite">
+	<test name="First-test">
+		<classes>
+			<class name="testng_sessions.LoginTest1" />
+		</classes>
+	</test>
+	<test name="second-test">
+	
+		<classes>
+			<class name="testng_sessions.LoginTest2"/>
+		</classes>
+	</test>
+</suite>
